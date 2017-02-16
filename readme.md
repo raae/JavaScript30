@@ -1,10 +1,10 @@
 # JavaScript30
 
-I am working my way through [@wesbos](https://github.com/wesbos) JavaScript30 course. 
+I am working my way through [@wesbos](https://github.com/wesbos) [JavaScript30 course](https://javascript30.com/). 
 
 Below you can see my progression along with some notes.
 
-* [x] 01 - [JavaScript Drum Kit](01 - JavaScript Drum Kit/index.html)
+* [x] 01 - [JavaScript Drum Kit](01 - JavaScript Drum Kit)
   * Changed backround image
   * Added mouse interaction
 * [ ] 02 - JS and CSS Clock
