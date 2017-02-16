@@ -1,11 +1,10 @@
-![](https://javascript30.com/images/JS3-social-share.png)
-
 # JavaScript30
 
-Taking [@wesbos](https://github.com/wesbos) JavaScript30 course to get 
-back to basic and hopefully learn something new.
+I am working my way through [@wesbos](https://github.com/wesbos) JavaScript30 course. 
 
-* [x] 01 - JavaScript Drum Kit
+Below you can see my progression along with some notes.
+
+* [x] 01 - [JavaScript Drum Kit](01 - JavaScript Drum Kit/index.html)
   * Changed backround image
   * Added mouse interaction
 * [ ] 02 - JS and CSS Clock
