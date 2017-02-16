@@ -2,31 +2,36 @@
 
 # JavaScript30
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+Taking [@wesbos](https://github.com/wesbos) JavaScript30 course to get 
+back to basic and hopefully learn something new.
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
-
-## Community #JavaScript30 Content
-
-Feel free to submit a PR adding a link to your own recaps, guides or reviews!
-
-* [Arjun Khode’s blog](http://thesagittariusme.blogspot.com/search/label/JS30) about summaries for each day, including fixed glitches, bugs and extra features
-* [Nitish Dayal's Text Guides](https://github.com/nitishdayal/JavaScript30) are great for those who like reading over watching
-* [Meredith Underell's](http://blog.meredithunderell.com/tag/javascript30/) Quick Lessons Learned
-* [Rowan Weismiller's](http://rowanweismiller.com/blog/javascript-30/) Recaps + Lessons Learned
-* [Thorsten Frommen](https://tfrommen.de/tag/javascript-30/) shares how he solved the exercises before viewing the answers
-* [Soyaine 写的中文指南](https://github.com/soyaine/JavaScript30)包含了过程记录和难点解释
-* [Ayo Isaiah's](https://freshman.tech/archive/#javascript30) Recaps and Lessons Learned
-* [Adriana Rios](https://stpcollabr8nlstn.github.io/JavaScript30/) shares her alternative solutions
-* [Michael Einsohn](http://30daysofjs.michaeleinsohn.com) publishes each challenge after watching the video once
-* [Mike Ekkel](https://medium.com/@mike_ekkel/javascript-30-a-30-day-vanilla-js-challenge-6a733fc9f62c#.9frjtaje9)
-* [Akinjide Bankole](https://github.com/akinjide/JS30days) used Node.js with [Jade](http://jadelang.net) to solve the exercises
-* [Yusef Habib](https://github.com/yhabib/JavaScript30) lessons and tricks learned, and a [gh-page](https://yhabib.github.io/JavaScript30/) to see working all the mini-projects.
-
-## A note on Pull Requests
-
-These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos.
-
-The starter files + solutions will be updated if/when the videos are updated.
-
-Thanks!
+[x] 01 - JavaScript Drum Kit
+[ ] 02 - JS and CSS Clock
+[ ] 03 - CSS Variables
+[ ] 04 - Array Cardio Day 1
+[ ] 05 - Flex Panel Gallery
+[ ] 06 - Type Ahead
+[ ] 07 - Array Cardio Day 2
+[ ] 08 - Fun with HTML5 Canvas
+[ ] 09 - Dev Tools Domination
+[ ] 10 - Hold Shift and Check Checkboxes
+[ ] 11 - Custom Video Player
+[ ] 12 - Key Sequence Detection
+[ ] 13 - Slide in on Scroll
+[ ] 14 - JavaScript References VS Copying
+[ ] 15 - LocalStorage
+[ ] 16 - Mouse Move Shadow
+[ ] 17 - Sort Without Articles
+[ ] 18 - Adding Up Times with Reduce
+[ ] 19 - Webcam Fun
+[ ] 20 - Speech Detection
+[ ] 21 - Geolocation
+[ ] 22 - Follow Along Link Highlighter
+[ ] 23 - Speech Synthesis
+[ ] 24 - Sticky Nav
+[ ] 25 - Event Capture, Propagation, Bubbling and Once
+[ ] 26 - Stripe Follow Along Nav
+[ ] 27 - Click and Drag
+[ ] 28 - Video Speed Controller
+[ ] 29 - Countdown Timer
+[ ] 30 - Whack A Mole
