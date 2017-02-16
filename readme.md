@@ -6,6 +6,8 @@ Taking [@wesbos](https://github.com/wesbos) JavaScript30 course to get
 back to basic and hopefully learn something new.
 
 * [x] 01 - JavaScript Drum Kit
+  * Changed backround image
+  * Added mouse interaction
 * [ ] 02 - JS and CSS Clock
 * [ ] 03 - CSS Variables
 * [ ] 04 - Array Cardio Day 1
