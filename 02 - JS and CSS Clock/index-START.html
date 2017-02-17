@@ -57,12 +57,35 @@
       background: white;
       position: absolute;
       top:50%;
+
+      transform: rotate(90deg);
+      transform-origin: 100%;
+      transition: all 0.05s;
+      transition-timing-function: cubic-bezier(0.42, 0, 0.04, 2.41)
+    }
+
+    .hour-hand {
+      background: black;
     }
 
   </style>
 
   <script>
 
+    function updateHand(handSelector, time) {
+      const degrees = 360/60*time + 90;
+      const hand = document.querySelector(handSelector);
+      hand.style.transform = `rotate(${degrees}deg)`;
+    }
+
+    function updateClock() {
+      const now = new Date();
+      updateHand('.second-hand', now.getSeconds());
+      updateHand('.min-hand', now.getMinutes());
+      updateHand('.hour-hand', now.getHours()*5);
+    }
+
+    setInterval(updateClock, 1000);
 
   </script>
 </body>
