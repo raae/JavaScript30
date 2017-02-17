@@ -7,7 +7,11 @@ Below you can see my progression along with some notes.
 * [01 - JavaScript Drum Kit](01 - JavaScript Drum Kit)
   * Changed backround image
   * Added mouse interaction
-*  02 - JS and CSS Clock
+*  [02 - JS and CSS Clock](02 - JS and CSS Clock)
+  * Made more resuable code 
+  * Orange background of course 
+  * Flatter design
+  * More accurate minutes and hour hand
 *  03 - CSS Variables
 *  04 - Array Cardio Day 1
 *  05 - Flex Panel Gallery
