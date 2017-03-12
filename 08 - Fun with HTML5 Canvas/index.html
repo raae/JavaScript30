@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Canvas</title>
+</head>
+<body>
+<canvas id="draw" width="800" height="800"></canvas>
+<script>  
+  const canvas = document.querySelector('#draw');
+  canvas.height = window.innerHeight;
+  canvas.width = window.innerWidth;
+  
+  const ctx = canvas.getContext('2d');
+  ctx.lineCap = 'round';
+  ctx.lineJoin = 'round';
+  ctx.lineWidth = 50;
+  
+  let [lastX, lastY] = [0, 0];
+  let isDrawing = false;
+  const colors = ['darkorange', 'red', 'orangered', 'orange'];
+  let colorIndex = 0;
+  
+  function draw(e) {
+    if ( !isDrawing ) return;
+    
+    ctx.strokeStyle = colors[colorIndex];
+    ctx.beginPath();
+    ctx.moveTo(lastX, lastY);
+    ctx.lineTo(e.offsetX, e.offsetY);
+    ctx.stroke();
+    
+    [lastX, lastY] = [e.offsetX, e.offsetY];
+    
+    if(colorIndex >= colors.length-1) {
+      colorIndex = 0;
+    } else {
+      colorIndex ++;
+    }
+  }
+  
+  canvas.addEventListener('mousedown', e => {
+    [lastX, lastY] = [e.offsetX, e.offsetY]
+    isDrawing = true;
+  });
+  
+  canvas.addEventListener('mouseup', e => {
+    isDrawing = false;
+  });
+  
+  canvas.addEventListener('mousemove', draw);
+  
+</script>
+
+<style>
+  html, body {
+    margin:0;
+  }
+</style>
+
+</body>
+</html>

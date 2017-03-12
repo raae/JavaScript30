@@ -22,7 +22,9 @@ Below you can see my progression along with some notes.
 * [06 - Type Ahead](06 - Type Ahead)
   * A little regex fun
 * 07 - Array Cardio Day 2
-* 08 - Fun with HTML5 Canvas
+* [08 - Fun with HTML5 Canvas](08 - Fun with HTML5 Canvas)
+  * Did parts of it
+  * Made orangy candycone stroke
 * 09 - Dev Tools Domination
 * 10 - Hold Shift and Check Checkboxes
 * 11 - Custom Video Player
