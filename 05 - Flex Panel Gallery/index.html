@@ -134,7 +134,15 @@
 
   <script>
   
+  function closeOpenPanel(clickedPanel) {
+    const open = document.querySelector('.panel.open');
+    if(open && clickedPanel !== open) {
+      open.classList.remove('open');
+    }
+  }
+  
   function toogleOpen(e) {
+    closeOpenPanel(this);
     this.classList.toggle('open');
   };
   
