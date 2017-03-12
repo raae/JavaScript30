@@ -5,17 +5,20 @@ I am working my way through [@wesbos](https://github.com/wesbos) [JavaScript30 c
 Below you can see my progression along with some notes.
 
 * [01 - JavaScript Drum Kit](01 - JavaScript Drum Kit)
-  * Changed backround image
+  * Changed background image
   * Added mouse interaction
 *  [02 - JS and CSS Clock](02 - JS and CSS Clock)
-  * Made more resuable code 
+  * Made more reusable code 
   * Orange background of course 
   * Flatter design
   * More accurate minutes and hour hand
 *  03 - CSS Variables
 *  04 - Array Cardio Day 1
   * No visual, but great exercise.
-*  05 - Flex Panel Gallery
+*  [05 - Flex Panel Gallery](05 - Flex Panel Gallery)
+  * Shows the power of CSS + a tiny bit of JS
+  * Added functionality
+    * Close the open panel, if selecting new panel
 *  06 - Type Ahead
 *  07 - Array Cardio Day 2
 *  08 - Fun with HTML5 Canvas
