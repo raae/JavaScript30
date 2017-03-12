@@ -14,6 +14,7 @@ Below you can see my progression along with some notes.
   * More accurate minutes and hour hand
 *  03 - CSS Variables
 *  04 - Array Cardio Day 1
+  * No visual, but great exercise.
 *  05 - Flex Panel Gallery
 *  06 - Type Ahead
 *  07 - Array Cardio Day 2
