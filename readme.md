@@ -19,7 +19,8 @@ Below you can see my progression along with some notes.
   * Shows the power of CSS + a tiny bit of JS
   * Added functionality
     * Close the open panel when selecting a new panel
-* 06 - Type Ahead
+* [06 - Type Ahead](06 - Type Ahead)
+  * A little regex fun
 * 07 - Array Cardio Day 2
 * 08 - Fun with HTML5 Canvas
 * 09 - Dev Tools Domination
