@@ -48,6 +48,10 @@
     isDrawing = false;
   });
   
+  canvas.addEventListener('mouseout', e => {
+    isDrawing = false;
+  });
+  
   canvas.addEventListener('mousemove', draw);
   
 </script>
