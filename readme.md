@@ -26,7 +26,8 @@ Below you can see my progression along with some notes.
   * Did parts of it
   * Made orangy candycone stroke
 * 09 - Dev Tools Domination
-* 10 - Hold Shift and Check Checkboxes
+* [10 - Hold Shift and Check Checkboxes](10 - Hold Shift and Check Checkboxes)
+  * Useful example
 * 11 - Custom Video Player
 * 12 - Key Sequence Detection
 * 13 - Slide in on Scroll
